@@ -1,6 +1,6 @@
-# blot @ a hack club ysws
-this is my first attempt at generating art through code using the blot engine on the [blot editor](https://blot.hackclub.com/editor). my artwork is halloween themed because i started working on this towards the end of october and shows a cross section of a spooky empty cave with spiderwebs at each turn where bats fly through them
-<br>
+# halloweenave (blot ysws submission)
+this is my first attempt at generating art through code using the blot engine on the [blot editor](https://blot.hackclub.com/editor). my artwork is halloween themed because i started working on this towards the end of october and shows a cross section of a spooky empty cave with spiderwebs at each turn where bats fly through them (okay girl yeah yeah yeah we get it you're edgyyyyyy)
+<br><br>
 ![image](https://github.com/user-attachments/assets/fd7b8133-b692-45f8-85ff-6adf1820eb59)
 
 ## how to run
